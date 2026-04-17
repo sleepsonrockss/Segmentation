@@ -1,6 +1,6 @@
 # 🖼️ Image Segmentation — CMPUT 328
 
-Assignment 6 for CMPUT 328 (Visual Recognition) at the University of Alberta.
+Assignment 6 for CMPUT 328 (Visual Recognition).
 Explores image segmentation techniques using deep learning.
 
 ## 🛠️ Built With
